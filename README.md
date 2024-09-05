@@ -100,13 +100,9 @@ You will be tasked with creating a full stack solution for managing anamnesis fo
    - Implement the ability to delete an anamnesis form from the list page.
    - Implement the ability to delete a section from a form or a question from a section on the detail and update pages.
 
-4. **Debounced Search Functionality**
-   - Implement a search input with debounce functionality.
-   - Simulate an asynchronous search to fetch and display results.
 
 #### Additional Requirements
 - Use TypeScript for all components and ensure type safety.
-- Do not use any other component libraries outside of the specified ones.
 - Ensure the UI is responsive and user-friendly.
 - Provide clear and concise documentation for setting up and running the project.
 
@@ -121,7 +117,6 @@ You will be tasked with creating a full stack solution for managing anamnesis fo
 - **Design**: User-friendly and responsive UI design.
 - **Usage of Libraries**: Effective use of `react-table` and `DndKit`.
 - **TypeScript Usage**: Proper use of TypeScript for type safety.
-- **Debounced Search**: Implementation of search with debounce and async simulation.
 - **Documentation**: Clear instructions and well-documented code.
 
 Good luck, and we look forward to reviewing your submission!
